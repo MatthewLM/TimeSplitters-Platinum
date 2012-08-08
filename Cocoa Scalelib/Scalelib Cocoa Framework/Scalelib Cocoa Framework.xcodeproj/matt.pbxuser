@@ -1,0 +1,293 @@
+// !$*UTF8*$!
+{
+	0867D690FE84028FC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeTarget = 8DC2EF4F0486A6940098B216 /* Scalelib Cocoa Framework */;
+		addToTargets = (
+		);
+		codeSenseManager = C9C35B8611E1431A0034D3A6 /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					821,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					778,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					498,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 314482440;
+			PBXWorkspaceStateSaveDate = 314482440;
+		};
+		perUserProjectItems = {
+			C915143E12BEEEF40005E778 /* PBXTextBookmark */ = C915143E12BEEEF40005E778 /* PBXTextBookmark */;
+			C915143F12BEEEF40005E778 /* PBXTextBookmark */ = C915143F12BEEEF40005E778 /* PBXTextBookmark */;
+			C9D58EA5126E584F00910606 /* PBXTextBookmark */ = C9D58EA5126E584F00910606 /* PBXTextBookmark */;
+			C9D58EC6126E5CFC00910606 /* PlistBookmark */ = C9D58EC6126E5CFC00910606 /* PlistBookmark */;
+			C9DABF7D1222E14500FD2F75 /* PBXTextBookmark */ = C9DABF7D1222E14500FD2F75 /* PBXTextBookmark */;
+			C9DFA78511EF5E7C0000427F /* PBXTextBookmark */ = C9DFA78511EF5E7C0000427F /* PBXTextBookmark */;
+			C9E874AF122EC48C003091F2 /* PBXTextBookmark */ = C9E874AF122EC48C003091F2 /* PBXTextBookmark */;
+			C9E874B1122EC48C003091F2 /* PBXTextBookmark */ = C9E874B1122EC48C003091F2 /* PBXTextBookmark */;
+			C9EC612611EE067E00ED43D1 /* PBXTextBookmark */ = C9EC612611EE067E00ED43D1 /* PBXTextBookmark */;
+			C9ED21A012038774000081F7 /* PBXTextBookmark */ = C9ED21A012038774000081F7 /* PBXTextBookmark */;
+			C9FA46A1121EEDC7005BD92E /* PBXTextBookmark */ = C9FA46A1121EEDC7005BD92E /* PBXTextBookmark */;
+		};
+		sourceControlManager = C9C35B8511E1431A0034D3A6 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	089C1667FE841158C02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1214, 356}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
+	32DBCF5E0370ADEE00C91783 /* Scalelib Cocoa Framework_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1214, 343}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 180}";
+		};
+	};
+	8DC2EF4F0486A6940098B216 /* Scalelib Cocoa Framework */ = {
+		activeExec = 0;
+	};
+	C9150429121F6822001BD3E3 /* cscalelib.cp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = cscalelib.cp;
+		path = "/Users/matt/Programming/A computing project - TimeSplitters game/Development/Working Backup/C++ Extensions/cscalelib.cp";
+		sourceTree = "<absolute>";
+	};
+	C915143E12BEEEF40005E778 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9DF88CA120F56E000A154C1 /* cmainext.cp */;
+		name = "cmainext.cp: 11";
+		rLen = 0;
+		rLoc = 260;
+		rType = 0;
+		vrLen = 488;
+		vrLoc = 0;
+	};
+	C915143F12BEEEF40005E778 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9DF88CA120F56E000A154C1 /* cmainext.cp */;
+		name = "cmainext.cp: 12";
+		rLen = 0;
+		rLoc = 284;
+		rType = 0;
+		vrLen = 488;
+		vrLoc = 0;
+	};
+	C948B9D91208ECA3000A9C74 /* menulib.py */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.script.python;
+		name = menulib.py;
+		path = "/Users/matt/Programming/A computing project - TimeSplitters game/Development/Working Backup/menulib.py";
+		sourceTree = "<absolute>";
+	};
+	C9C35B8511E1431A0034D3A6 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	C9C35B8611E1431A0034D3A6 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	C9C35BA711E148560034D3A6 /* Game.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {999, 1851}}";
+			sepNavSelRange = "{1129, 0}";
+			sepNavVisRange = "{803, 616}";
+			sepNavWindowFrame = "{{0, 73}, {1280, 705}}";
+		};
+	};
+	C9C35BA811E148560034D3A6 /* Game.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {999, 7689}}";
+			sepNavSelRange = "{3964, 0}";
+			sepNavVisRange = "{3809, 509}";
+		};
+	};
+	C9D58EA5126E584F00910606 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9E6ADB61230891800569C71 /* scalelib.py */;
+		name = "scalelib.py: 761";
+		rLen = 0;
+		rLoc = 30750;
+		rType = 0;
+		vrLen = 1288;
+		vrLoc = 29741;
+	};
+	C9D58EC6126E5CFC00910606 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8DC2EF5A0486A6940098B216 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleExecutable,
+		);
+		name = "/Users/matt/Programming/A computing project - TimeSplitters game/Development/Cocoa Scalelib/Scalelib Cocoa Framework/Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	C9DABF7D1222E14500FD2F75 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9150429121F6822001BD3E3 /* cscalelib.cp */;
+		name = "cscalelib.cp: 232";
+		rLen = 0;
+		rLoc = 11655;
+		rType = 0;
+		vrLen = 1629;
+		vrLoc = 11184;
+	};
+	C9DF88CA120F56E000A154C1 /* cmainext.cp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {999, 1787}}";
+			sepNavSelRange = "{284, 0}";
+			sepNavVisRange = "{0, 488}";
+		};
+	};
+	C9DFA78511EF5E7C0000427F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32DBCF5E0370ADEE00C91783 /* Scalelib Cocoa Framework_Prefix.pch */;
+		name = "Scalelib Cocoa Framework_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 180;
+		vrLoc = 0;
+	};
+	C9E6ADB61230891800569C71 /* scalelib.py */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.script.python;
+		name = scalelib.py;
+		path = "/Users/matt/Programming/A computing project - TimeSplitters game/Development/Working Backup/scalelib.py";
+		sourceTree = "<absolute>";
+	};
+	C9E874AF122EC48C003091F2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9EB953D1206F21500544358 /* scalelib.py */;
+		name = "scalelib.py: 607";
+		rLen = 0;
+		rLoc = 22506;
+		rType = 0;
+		vrLen = 1406;
+		vrLoc = 18499;
+	};
+	C9E874B1122EC48C003091F2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9EBEA9E1229E32300F74AF4 /* main.py */;
+		name = "main.py: 3538";
+		rLen = 0;
+		rLoc = 162522;
+		rType = 0;
+		vrLen = 1567;
+		vrLoc = 161743;
+	};
+	C9EB953D1206F21500544358 /* scalelib.py */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.script.python;
+		name = scalelib.py;
+		path = "/Users/matt/Programming/A computing project - TimeSplitters game/Development/scalelib.py";
+		sourceTree = "<absolute>";
+	};
+	C9EBEA9E1229E32300F74AF4 /* main.py */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.script.python;
+		name = main.py;
+		path = "/Users/matt/Programming/A computing project - TimeSplitters game/Development/Working Backup/main.py";
+		sourceTree = "<absolute>";
+	};
+	C9EC612611EE067E00ED43D1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C9EC612711EE067E00ED43D1 /* gl.h */;
+		name = "gl.h: 1682";
+		rLen = 0;
+		rLoc = 61309;
+		rType = 0;
+		vrLen = 1571;
+		vrLoc = 89908;
+	};
+	C9EC612711EE067E00ED43D1 /* gl.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = gl.h;
+		path = /System/Library/Frameworks/OpenGL.framework/Versions/A/Headers/gl.h;
+		sourceTree = "<absolute>";
+	};
+	C9ED21A012038774000081F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C1667FE841158C02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	C9FA46A1121EEDC7005BD92E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C948B9D91208ECA3000A9C74 /* menulib.py */;
+		name = "menulib.py: 629";
+		rLen = 0;
+		rLoc = 23729;
+		rType = 0;
+		vrLen = 1226;
+		vrLoc = 23168;
+	};
+}

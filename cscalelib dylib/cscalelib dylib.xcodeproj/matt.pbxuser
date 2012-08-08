@@ -1,0 +1,103 @@
+// !$*UTF8*$!
+{
+	0867D690FE84028FC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeTarget = D2AAC09C05546B4700DB518D /* cscalelib dylib */;
+		codeSenseManager = C94079FE1206380F004D7254 /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					619,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 302397432;
+			PBXWorkspaceStateSaveDate = 302397432;
+		};
+		perUserProjectItems = {
+			C9407A0D12063905004D7254 /* PBXTextBookmark */ = C9407A0D12063905004D7254 /* PBXTextBookmark */;
+			C9407A0E12063905004D7254 /* PBXTextBookmark */ = C9407A0E12063905004D7254 /* PBXTextBookmark */;
+			C9407ACF12065550004D7254 /* PBXTextBookmark */ = C9407ACF12065550004D7254 /* PBXTextBookmark */;
+		};
+		sourceControlManager = C94079FD1206380F004D7254 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	5073E0C409E734A800EC74B6 /* cscalelib dylib.cp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {797, 9383}}";
+			sepNavSelRange = "{0, 13016}";
+			sepNavVisRange = "{11210, 1172}";
+		};
+	};
+	5073E0C609E734A800EC74B6 /* cscalelib dylibProj.xcconfig */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 260}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 197}";
+		};
+	};
+	C94079FD1206380F004D7254 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	C94079FE1206380F004D7254 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	C9407A0D12063905004D7254 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5073E0C609E734A800EC74B6 /* cscalelib dylibProj.xcconfig */;
+		name = "cscalelib dylibProj.xcconfig: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 197;
+		vrLoc = 0;
+	};
+	C9407A0E12063905004D7254 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5073E0C409E734A800EC74B6 /* cscalelib dylib.cp */;
+		name = "cscalelib dylib.cp: 3";
+		rLen = 0;
+		rLoc = 50;
+		rType = 0;
+		vrLen = 679;
+		vrLoc = 0;
+	};
+	C9407ACF12065550004D7254 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5073E0C409E734A800EC74B6 /* cscalelib dylib.cp */;
+		name = "cscalelib dylib.cp: 1";
+		rLen = 13016;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1172;
+		vrLoc = 11210;
+	};
+	D2AAC09C05546B4700DB518D /* cscalelib dylib */ = {
+		activeExec = 0;
+	};
+}

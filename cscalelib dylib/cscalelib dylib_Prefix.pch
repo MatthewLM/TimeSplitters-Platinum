@@ -1,0 +1,6 @@
+//
+// Prefix header for all source files of the 'cscalelib dylib' target in the 'cscalelib dylib' project.
+//
+
+
+#include <iostream>

@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Scalelib Cocoa Framework' target in the 'Scalelib Cocoa Framework' project.
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
