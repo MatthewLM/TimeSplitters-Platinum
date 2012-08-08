@@ -15,7 +15,7 @@ Files and Directories
 =====================
 
 * __./Cocoa Scalelib/Scalelib Cocoa Framework :__ Objective-C code using Cocoa for the general GUI code. Can be linked to python with PyObjC.
-* __./docs/Anaconda A2 Computing Project Document.doc :__ Some explaination of the code from a write-up for A2 computing coursework as the Anaconda minigame was used as a A2 Computing project. This is not the final document but contains information nonetheless.
+* __./docs/Anaconda A2 Computing Project Document.doc :__ Some explaination of the code from a write-up for a A2 computing piece of coursework. The Anaconda minigame was used as an A2 Computing project. This is not the final document but contains information nonetheless.
 * __./Python/C++ Extensions :__ Contains C++ code linked in with the python code via dynamic libraries to extend the python code with faster equivilents.
 * __./Python/characters :__ Contains numbered folders for character data.
 * __./Python/fonts :__ Fonts used by the game.
